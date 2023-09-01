@@ -20,13 +20,3 @@ This repository is intended for educational and research purposes only. The owne
 1. [Description](#description)
 2. [Disclaimer](#-disclaimer-)
 3. [Features](#features)
-4. [How to Contribute](#how-to-contribute)
-5. [License](#license)
-
-## How to Contribute
-
-Contributions are welcome! Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
